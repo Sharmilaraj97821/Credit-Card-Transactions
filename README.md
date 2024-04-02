@@ -4,7 +4,8 @@ In this Project,We analyze credit card transactions using SQL to gain insights i
 ## Data Source:
 https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 ## Tools Used:
-Excel,
+Excel
+
 SQL Server Management Studio(SSMS)
 ## Key Insights:
 1-Top 5 cities with highest spends and their percentage contribution of total credit card spends
