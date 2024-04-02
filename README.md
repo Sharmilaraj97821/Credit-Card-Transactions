@@ -21,6 +21,8 @@ SQL Server Management Studio(SSMS)
 
 7- Which card and expense type combination saw highest month over month growth in Jan-2014
 
-9- During weekends which city has highest total spend to total no of transcations atio
+8- During weekends which city has highest total spend to total no of transcations atio
 
-10- Wich city took least number of days to reach its 500th transaction after the first transaction in that city
+9- Which city took least number of days to reach its 500th transaction after the first transaction in that city
+## Conclusion:
+The Credit Card Transaction Analysis in SQL project provides valuable insights into customer spending patterns.
